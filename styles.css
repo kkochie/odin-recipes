@@ -1,0 +1,30 @@
+html {
+  background-color: #f7e7c3;
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  background-color: #fff;
+  padding: 20px;
+  margin: 50px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+ul {
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  list-style: none;
+}
+li a {
+  color: #a8460e;
+  text-decoration: none;
+}
+li a:hover {
+  color: hsl(42, 81%, 50%);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
